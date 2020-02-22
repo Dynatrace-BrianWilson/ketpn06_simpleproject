@@ -1,0 +1,1 @@
+# ketpn06_simpleproject
